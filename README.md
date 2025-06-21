@@ -1,61 +1,58 @@
-<h1 align="">Hi, I’m Mostafa Shaban</h1> 
-<h3 align="">
-  Fornt end Developer
-</h3>
+<h1 align="center">Hi, I'm Mostafa Elbanna 👋</h1>
+<h3 align="center">Frontend Developer | JavaScript | React | Next.js</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mostafashabanelbanna.github.io/)
-
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mostafa-shaban-elbanna/)
-
-- 📫 How to reach me **mostafashabanelbanna@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mostafashabanelbanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev.svg" alt="mostafa-shaban-elbanna" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mostafa-shaban-elbanna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-shaban-elbanna" height="30" width="40" /></a>
-
+<p align="center">
+  <a href="https://mostafashabanelbanna.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mostafa-shaban-elbanna/" target="_blank">💼 LinkedIn</a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg" alt="next" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
- 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a> 
- 
+
+---
+
+### 👨‍💻 About Me
+
+- Passionate **Frontend Developer** with a strong focus on building **responsive**, **accessible**, and **user-friendly interfaces**.
+- Skilled in **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, and modern JavaScript libraries.
+- Experience integrating **analytics**, **feature flags**, and **third-party tools** like Mixpanel, Sentry, Canny, and DevCycle.
+- Contributor to scalable and secure web platforms including **Trustline**, a cybersecurity SaaS platform.
+- Interested in **AI integrations**, **developer experience**, and **performance optimization**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+JavaScript (ES6+), TypeScript, HTML, CSS, Sass
+
+**Frameworks & Libraries:**  
+React, Next.js, Redux, Tailwind CSS, Bootstrap, React Query
+
+**Tools & Platforms:**  
+Git, GitHub, Vercel, Netlify, Sentry, Mixpanel, DevCycle, Keycloak, Chargebee
+
+**Testing:**  
+Jest, React Testing Library
+
+**Other Interests:**  
+Cybersecurity, AI agents, RAG, LLM tools, LangChain, LangGraph
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafashabanelbanna&show_icons=true&theme=github_dark" alt="Mostafa's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafashabanelbanna&theme=github-dark" />
 </p>
+
+---
+
+### 📫 Get in Touch
+
+- LinkedIn: [mostafaelbanna](https://www.linkedin.com/in/mostafa-shaban-elbanna/)
+- Portfolio: [mostafashabanelbanna.vercel.app](https://mostafashabanelbanna.vercel.app)
+- Email: [Available upon request]
+
+---
+
+_Always learning, always building._
